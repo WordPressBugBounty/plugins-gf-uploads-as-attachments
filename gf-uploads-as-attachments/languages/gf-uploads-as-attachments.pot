@@ -1,0 +1,53 @@
+# Copyright (C) 2020 gf-uploads-as-attachments
+# This file is distributed under the same license as the gf-uploads-as-attachments package.
+msgid ""
+msgstr ""
+"Project-Id-Version: gf-uploads-as-attachments\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Elegant Modules <hey@elegantmodules.com>\n"
+"Last-Translator: Elegant Modules <hey@elegantmodules.com>\n"
+"Report-Msgid-Bugs-To: https://elegantmodules.com/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: includes/class-settings.php:24
+msgid "Gravity Forms - Uploads as Attachments"
+msgstr ""
+
+#: includes/class-settings.php:24
+msgid "requires"
+msgstr ""
+
+#: includes/class-settings.php:24
+msgid "Gravity Forms"
+msgstr ""
+
+#: includes/class-settings.php:24
+msgid "to work."
+msgstr ""
+
+#: includes/class-settings.php:74
+msgid "Uploads as Attachments settings"
+msgstr ""
+
+#: includes/class-settings.php:79
+msgid "Enable"
+msgstr ""
+
+#: includes/class-settings.php:83
+msgid "Add fileupload fields from this form as attachments to this notification"
+msgstr ""
+
+#: includes/class-settings.php:89
+msgid "Delete files"
+msgstr ""
+
+#: includes/class-settings.php:93
+msgid "Delete uploaded files from server after notification sent?"
+msgstr ""
